@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5405555701060c5e5f0b0e2713265a4413151b2b7a7c74617d781b32b4b46639
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5054065107075b08555d5b23487a09441516417d2f7122347c2d4f37e7b73068
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b500d5f530c500f545e097141730c44474e4c7d292d7f612e7d1931e4e2616d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0107035152535108585d087414225944454e4b7b7b2a75672c2b4f6be3e3603e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5004050700510c5a0b0a087a16705c44454e4d7f28717233797c1c62b4b7633b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5105055e01545a595b5f5f7447225a44434f4073752970657f2d4e65bab7633b
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 535704525451505d5a5f0a2742725944414f1a7f2f7873662b2d4566e4e6636a
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 00090156005051585e0c5d7613200744434e1d7d29797e66757c4a30e4b5626f
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 06085550505659020c595e7614255e4441164f7d7a7e27612f2a1f66e3b36069
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5a520d5e5c01590f0b5a5f7214770c404f4e1a2e2d2b74687d284f31e3b06d6a
+      flags: 0
+    UIToolkit.EnableEventDebugger:
+      value: 2550581500
+      flags: 0
+    UnityRemoteDevice:
+      value: 530104565d04590a405e5c7345740b3533463d7c7578766108
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
